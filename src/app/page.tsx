@@ -18,7 +18,7 @@ export default function Home() {
               </p>
               <Link
                   target="_blank"
-                  href="https://dial.to/?action=solana-action:https://abalshakou.github.io/solana-actions/"
+                  href="https://dial.to/?action=solana-action:https://abalshakou.github.io/actions/"
                   className="inline-flex space-x-3 text-lg font-medium flexer link-muted shadow-indigo"
               >
                 <span>Please donate for grow</span>
