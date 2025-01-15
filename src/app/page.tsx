@@ -18,10 +18,10 @@ export default function Home() {
               </p>
               <Link
                   target="_blank"
-                  href="https://dial.to/?action=solana-action:https://abalshakou.github.io/actions/"
+                  href="https://dial.to/devnet?action=solana-action:http://localhost:3000/api/actions/donate"
                   className="inline-flex space-x-3 text-lg font-medium flexer link-muted shadow-indigo"
               >
-                <span>Please donate for grow</span>
+                <span>Please donate for grow, plz</span>
               </Link>
             </div>
           </section>
