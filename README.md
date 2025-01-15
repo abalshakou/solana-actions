@@ -91,10 +91,10 @@ The project uses the **Solana Web3.js** library to interact with the Solana bloc
 
 
 ### 1. **Send Transactions**
-- The bot can send SOL tokens from one wallet to another.
-- Example command in Telegram:
+- The Solana Action can send SOL tokens from one wallet to another.
+- Example command:
   ```
-  /send <from-wallet> <to-wallet> <amount>
+  action=solana-action:http://localhost:3000/api/actions/donate
   ```
 
 ---
